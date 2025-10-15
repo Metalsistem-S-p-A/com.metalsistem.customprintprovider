@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Customprintprovider
 Bundle-SymbolicName: com.metalsistem.customprintprovider
-Bundle-Version: 11.0.0.qualifier
+Bundle-Version: 13.0.0.qualifier
 Export-Package: customprintprovider.providers
 Require-Bundle: org.adempiere.plugin.utils;bundle-version="11.0.0",
  com.sun.activation.jakarta.activation
